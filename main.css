@@ -23,7 +23,7 @@
     background-size: cover;
     width: 100vw;
     height: 100%;
-    animation: backGrMove 150s linear infinite;
+    /* animation: backGrMove 150s linear infinite; */
     -webkit-animation: backGrMove 150s linear infinite;
   }
   
