@@ -19,7 +19,7 @@
   }
   
   #container {
-    background-image: url("/assets/img/backgroundNight.png");
+    background-image: url("./assets/img/backgroundNight.png");
     background-size: cover;
     width: 100vw;
     height: 100%;
